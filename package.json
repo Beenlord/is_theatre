@@ -1,0 +1,25 @@
+{
+  "name": "is_theatre",
+  "version": "1.0.0",
+  "description": "Информационная система театра",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beenlord/is_theatre.git"
+  },
+  "keywords": [
+    "theatre"
+  ],
+  "author": "Vladimir Fomin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Beenlord/is_theatre/issues"
+  },
+  "homepage": "https://github.com/Beenlord/is_theatre#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
